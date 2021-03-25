@@ -1,4 +1,4 @@
-![Hi, I'm Nauman Shakir 👋 I'm a 🚀 IoT Solution Architect and a Blockchain Developer 🚀]
+![Hi, I'm Nauman Shakir 👋 I'm an 🚀 IoT Solution Architect and a Blockchain Developer 🚀]
 
 <!--
 how to make this gif ?
