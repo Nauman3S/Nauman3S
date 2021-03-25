@@ -1,4 +1,4 @@
-![Hi, I'm Nauman Shakir 👋 I'm a 🚀 IoT Solution Architect and a Blockchain Developer 🚀](https://github.com/matyo91/matyo91/raw/main/assets/github.gif)
+![Hi, I'm Nauman Shakir 👋 I'm a 🚀 IoT Solution Architect and a Blockchain Developer 🚀]
 
 <!--
 how to make this gif ?
@@ -10,14 +10,14 @@ Then i recorded my screen to gif on Mac with Quicktime and https://gist.github.c
 ## Websites
 
 <!-- BLOG-POST-LIST:START -->
-- [Profile](https://NaumanShakir.com)
+- [NaumanShakir.com](https://NaumanShakir.com)
 - [Product In-Development](https://Imsaar.com)
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
 
 <p align="center">
-  <a href="https://darkwood.fr"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
+  
   <a href="mailto:naumanshakir3s@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   
   <a href="https://twitter.com/NaumanShakir3S"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
