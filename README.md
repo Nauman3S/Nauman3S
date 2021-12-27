@@ -17,15 +17,15 @@ Hi, I'm Nauman Shakir 👋 I'm an 🚀 IoT Solution Architect and a Blockchain D
  <p align="left" float="left">
  
   
-  <a href="mailto:naumanshakir3s@gmail.com">NaumanShakir3S@gmail.com<img align="center"  src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="32" /></a>
+  <a href="mailto:naumanshakir3s@gmail.com"><img align="center"  src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="32" />NaumanShakir3S@gmail.com</a>
 
-  <a href="https://twitter.com/NaumanShakir3S">@NaumanShakir3S<img align="center"  src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" width="32" /></a>
+  <a href="https://twitter.com/NaumanShakir3S"><img align="center"  src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" width="32" />@NaumanShakir3S</a>
  
  
 
-  <a href="https://www.linkedin.com/in/NaumanShakir3S"><img align="center"  src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="32" /></a>
+  <a href="https://www.linkedin.com/in/NaumanShakir3S"><img align="center"  src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="32" />NaumanShakir3S</a>
   
-  <a href="https://stackoverflow.com/users/5144315/nauman-shakir">NaumanShakir3S<img align="center"  src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow" width="32" /></a>
+  <a href="https://stackoverflow.com/users/5144315/nauman-shakir"><img align="center"  src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow" width="32" />NaumanShakir3S</a>
 
  </p>
 
