@@ -48,6 +48,8 @@ Hi, I'm <a href="https://naumanshakir.com/" target="_blank"><b>Nauman Shakir</b>
 
  </p>
 
+## Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nauman3s&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical&langs_count=10" alt="nauman3s" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nauman3s&show_icons=true&locale=en&count_private=true&theme=radical" alt="nauman3s" /></p>
