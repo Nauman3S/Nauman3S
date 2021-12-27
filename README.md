@@ -1,3 +1,9 @@
+<p align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <h2 align="center">Nauman Shakir</h2>
+  <p align="center">Full-Stack IoT Solution Architect</p>
+</p>
+
 Hi, I'm <a href="https://naumanshakir.com/" target="_blank"><b>Nauman Shakir</b></a> 👋 I'm a 🚀 Full-Stack IoT Solution Architect and a Blockchain Developer 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimrehman1&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimrehman1" /> </p>
