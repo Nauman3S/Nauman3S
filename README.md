@@ -21,7 +21,20 @@ Hi, I'm Nauman Shakir 👋 I'm a 🚀 Full-Stack IoT Solution Architect and a Bl
  <a href="https://processing.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg" alt="processing" width="40" height="40"/> </a>
  <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
  <a href="https://en.wikipedia.org/wiki/MS-DOS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msdos/msdos-original.svg" alt="msdos" width="40" height="40"/> </a>
- <a href="https://www.nginx.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="msdos" width="40" height="40"/> </a>
+ <a href="https://www.nginx.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
+ <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+ <a href="https://cloud.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40"/> </a>
+ <a href="https://about.gitlab.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
+ <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+ <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+ <a href="https://gcc.gnu.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" alt="gcc" width="40" height="40"/> </a>
+ <a href="https://en.wikipedia.org/wiki/Embedded_C" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="embeddedc" width="40" height="40"/> </a>
+ <a href="https://www.debian.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/> </a>
+ <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+ <a href="https://www.centos.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> </a>
+ <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+ <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
+ <a href="https://www.arduino.cc/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a>
  
  
  
