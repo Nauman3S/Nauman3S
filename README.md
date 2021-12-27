@@ -18,7 +18,7 @@ Hi, I'm Nauman Shakir 👋 I'm an 🚀 IoT Solution Architect and a Blockchain D
  
   
   <a href="mailto:naumanshakir3s@gmail.com"><img align="center"  src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="32" /></a>
-
+&nbsp; &nbsp; &nbsp; &nbsp;
 
   <a href="https://twitter.com/NaumanShakir3S"><img align="center"  src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" width="32" /></a>
  
