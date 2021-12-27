@@ -13,25 +13,23 @@ Hi, I'm Nauman Shakir 👋 I'm an 🚀 IoT Solution Architect and a Blockchain D
 
 ## Links
 
-<div class="row">
+
   <p align="left">
-  <div class="column">
+ 
   
   <a href="mailto:naumanshakir3s@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  </div>
-  <div class="column">
-  <a href="https://twitter.com/NaumanShakir3S"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  </div>
- 
-  <div class="column">
-  <a href="https://www.linkedin.com/in/NaumanShakir3S"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  </div>
 
-  <div class="column">
+
+  <a href="https://twitter.com/NaumanShakir3S"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+ 
+ 
+
+  <a href="https://www.linkedin.com/in/NaumanShakir3S"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  
   <a href="https://stackoverflow.com/users/5144315/nauman-shakir"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
-  </div>
+
  </p>
-</div>
+
 <!-- <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=matyo91.matyo91" alt="visitor badge"/>
 </p> -->
