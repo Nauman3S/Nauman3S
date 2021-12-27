@@ -11,7 +11,7 @@ Hi, I'm Nauman Shakir 👋 I'm an 🚀 IoT Solution Architect and a Blockchain D
 - [Product In-Development](https://Imsaar.com)
 <!-- BLOG-POST-LIST:END -->
 
-## Links
+<h3 align="left">Connect with me:</h3>
 
 
   <p align="left">
@@ -29,6 +29,7 @@ Hi, I'm Nauman Shakir 👋 I'm an 🚀 IoT Solution Architect and a Blockchain D
   <a href="https://stackoverflow.com/users/5144315/nauman-shakir"><img align="center"  src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow" height="40" /></a>
 
  </p>
+ </h3>
 
 <!-- <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=matyo91.matyo91" alt="visitor badge"/>
