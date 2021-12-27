@@ -2,7 +2,7 @@ Hi, I'm Nauman Shakir 👋 I'm an 🚀 IoT Solution Architect and a Blockchain D
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimrehman1&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimrehman1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nauman3s" alt="nauman3s" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nauman3s&theme=onedark" alt="nauman3s" /></a> </p>
 
 ## Websites
 
