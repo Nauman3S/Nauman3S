@@ -17,16 +17,16 @@ Hi, I'm Nauman Shakir 👋 I'm an 🚀 IoT Solution Architect and a Blockchain D
   <p align="left">
  
   
-  <a href="mailto:naumanshakir3s@gmail.com"><img align="center"  src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" height="40" width="50"/></a>
+  <a href="mailto:naumanshakir3s@gmail.com"><img align="center"  src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" height="40" /></a>
 
 
-  <a href="https://twitter.com/NaumanShakir3S"><img align="center"  src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" height="40" width="50"/></a>
+  <a href="https://twitter.com/NaumanShakir3S"><img align="center"  src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" height="40" /></a>
  
  
 
-  <a href="https://www.linkedin.com/in/NaumanShakir3S"><img align="center"  src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" height="40" width="50"/></a>
+  <a href="https://www.linkedin.com/in/NaumanShakir3S"><img align="center"  src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" height="40" /></a>
   
-  <a href="https://stackoverflow.com/users/5144315/nauman-shakir"><img align="center"  src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow" height="40" width="50"/></a>
+  <a href="https://stackoverflow.com/users/5144315/nauman-shakir"><img align="center"  src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow" height="40" /></a>
 
  </p>
 
