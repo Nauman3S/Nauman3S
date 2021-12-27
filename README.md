@@ -1,4 +1,4 @@
-Hi, I'm <b>Nauman Shakir</b> 👋 I'm a 🚀 Full-Stack IoT Solution Architect and a Blockchain Developer 🚀
+Hi, I'm <a href="https://naumanshakir.com/" target="_blank"><b>Nauman Shakir</b></a> 👋 I'm a 🚀 Full-Stack IoT Solution Architect and a Blockchain Developer 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimrehman1&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimrehman1" /> </p>
 
