@@ -1,11 +1,8 @@
 Hi, I'm Nauman Shakir 👋 I'm an 🚀 IoT Solution Architect and a Blockchain Developer 🚀
 
-<!--
-how to make this gif ?
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimrehman1&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimrehman1" /> </p>
 
-I made my with https://codesandbox.io/s/github-profile-2ijk7
-Then i recorded my screen to gif on Mac with Quicktime and https://gist.github.com/tskaggs/6394639
--->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nauman3s" alt="nauman3s" /></a> </p>
 
 ## Websites
 
