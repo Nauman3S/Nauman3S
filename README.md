@@ -1,8 +1,9 @@
 <p align="center">
  <a href="https://NaumanShakir.com" target="_blank">
   <img width="140" src="logo.png" />  
-  <h2 align="center">Nauman Shakir</h2>
   </a>
+  <h2 align="center">Nauman Shakir</h2>
+  
   <p align="center">Full-Stack IoT Solution Architect</p>
   
 </p>
