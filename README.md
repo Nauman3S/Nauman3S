@@ -1,7 +1,10 @@
 <p align="center">
+ <a href="https://NaumanShakir.com" target="_blank">
   <img width="140" src="logo.png" />  
   <h2 align="center">Nauman Shakir</h2>
+  </a>
   <p align="center">Full-Stack IoT Solution Architect</p>
+  
 </p>
 
 Hi, I'm <a href="https://naumanshakir.com/" target="_blank"><b>Nauman Shakir</b></a> 👋 I'm a 🚀 Full-Stack IoT Solution Architect and a Blockchain Developer 🚀
