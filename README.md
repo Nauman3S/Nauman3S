@@ -10,7 +10,7 @@
 
 Hi, I'm <a href="https://naumanshakir.com/" target="_blank"><b>Nauman Shakir</b></a> 👋 I'm a 🚀 Full-Stack IoT Solution Architect and a Blockchain enthusiast. I love to build end-to-end IoT Solutions 🚀
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimrehman1&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimrehman1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nauman3s&label=Profile%20views&color=0e75b6&style=flat" alt="nauman3s" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nauman3s&theme=onedark&row=3&column=4&margin-w=12&margin-h=10" alt="nauman3s" /></a> </p>
 
