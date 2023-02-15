@@ -8,7 +8,7 @@
   
 </p>
 
-Hi there, I'm <a href="https://naumanshakir.com/" target="_blank"><b>Nauman Shakir</b></a> 👋, a passionate 🚀 Full-Stack IoT Solution Architect and Blockchain aficionado. I thrive on crafting innovative end-to-end IoT solutions that help shape the world we live in. Join me as we explore the cutting edge of technology together 🚀!
+Hi there 👋, I'm <a href="https://naumanshakir.com/" target="_blank"><b>Nauman Shakir</b></a>, a passionate 🚀 Full-Stack IoT Solution Architect and Blockchain aficionado. I thrive on crafting innovative end-to-end IoT solutions that help shape the world we live in. Join me as we explore the cutting edge of technology together 🚀!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nauman3s&label=Profile%20views&color=0e75b6&style=flat" alt="nauman3s" /> </p>
 
